@@ -19,7 +19,7 @@ Engineer new features if needed to enhance model performance.
 
 Model Development:
 Develop various machine learning models, including logistic regression, decision trees, random forests, support vector machines, and neural networks.
-Compare model performance using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
+Compare model performance using ROC-AUC metrics.
 
 Model Evaluation and Selection:
 Perform cross-validation to ensure the robustness of models.
