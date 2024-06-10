@@ -1,5 +1,8 @@
 Breast Cancer Prediction Analysis
+
+
 Introduction
+
 This project aims to predict breast cancer as either benign or malignant using machine learning techniques. The dataset used is the Breast Cancer Wisconsin (Diagnostic) Data Set. This README provides a comprehensive guide through data preprocessing, exploratory data analysis (EDA), model training, evaluation, and explanation using LIME.
 
 Data Preprocessing
